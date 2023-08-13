@@ -4,8 +4,7 @@ import (
 	"os"
 	"time"
 
-	. "github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/tangwenru/go-openai/internal/test/checks"
 
 	"context"
 	"encoding/json"

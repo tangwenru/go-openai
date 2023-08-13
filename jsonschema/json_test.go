@@ -4,8 +4,6 @@ import (
 	"encoding/json"
 	"reflect"
 	"testing"
-
-	. "github.com/sashabaranov/go-openai/jsonschema"
 )
 
 func TestDefinition_MarshalJSON(t *testing.T) {

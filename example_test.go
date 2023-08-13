@@ -10,8 +10,6 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-
-	"github.com/sashabaranov/go-openai"
 )
 
 func Example() {

@@ -5,8 +5,6 @@ import (
 	"errors"
 	"fmt"
 	"os"
-
-	"github.com/sashabaranov/go-openai"
 )
 
 func main() {
